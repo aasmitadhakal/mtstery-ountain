@@ -16,11 +16,11 @@ const routes = [
       },
       {
         name: "nepal",
-        path: "/header",
+        path: "/materialui",
       },
       {
         name: "nepal",
-        path: "/header",
+        path: "/text",
       },
     ],
   },
@@ -29,7 +29,7 @@ const routes = [
     submenus: [
       {
         name: "dashiram dhakal",
-        path: "/header",
+        path: "/home",
       },
       {
         name: "dilu dhakal",
@@ -40,8 +40,8 @@ const routes = [
         path: "/header",
       },
       {
-        name: "rita",
-        path: "/header",
+        name: "gallery",
+        path: "/gallery",
       },
     ],
   },
@@ -54,7 +54,7 @@ const routes = [
       },
       {
         name: "dilu dhakal",
-        path: "/header",
+        path: "/side",
       },
       {
         name: "bibek",
